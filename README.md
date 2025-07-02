@@ -35,9 +35,12 @@ This project envisions becoming the go-to solution to onboard companies to crypt
 
 📮DoraHack Bulids:
 * 🔗https://dorahacks.io/buidl/27227
+  
 📮Github Repo:
 * 🔗https://github.com/mfadrirfr13/Compensate-x-UMI
+  
 💻Presentation:
 🔗
+
 Website:
 🔗
