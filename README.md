@@ -34,13 +34,12 @@ The ultimate goal of this payroll dApp is to democratize access to secure and ef
 This project envisions becoming the go-to solution to onboard companies to crypto of all sizes, offering payroll systems that are scalable, cost-effective, and compliant with regulatory requirements, while advancing financial inclusivity and transparency for employees worldwide.
 
 📮DoraHack Bulids:
-* 🔗https://dorahacks.io/buidl/27227
+* [Compensate x UMI](https://dorahacks.io/buidl/27227)
   
-📮Github Repo:
-* 🔗https://github.com/mfadrirfr13/Compensate-x-UMI
+* [Github Repo](https://github.com/mfadrirfr13/Compensate-x-UMI)
   
 💻Presentation:
-🔗
+*[Presentation & Demo](https://youtube.com)
 
 Website:
-🔗
+*[Compensate](https://aptos-salary-git-feat-frontend-init-ragingrahuls-projects.vercel.app/)
